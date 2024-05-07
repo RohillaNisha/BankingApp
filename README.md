@@ -1,6 +1,6 @@
-## bankingapp
+## Bankingapp
 
-Generated with ❤️ from [DhiWise](https://www.dhiwise.com)
+Generated basic skeleton from [DhiWise](https://www.dhiwise.com) Adding frontend & Backend functionalities.
 
 ## Description
 
